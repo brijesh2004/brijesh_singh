@@ -9,7 +9,7 @@ import { GiHumanTarget } from "react-icons/gi";
 const Nav = () => {
     return (
         <>
-            <nav className="md:h-[100vh] md:bg-red-400 md:text-white md:w-20 w-[100vw] flex justify-center fixed bottom-0 bg-red-400 h-20 items-center text-white">
+            <nav className="md:h-[100vh] md:bg-red-400 md:text-white md:w-20 w-[100vw] flex justify-center fixed bottom-0 bg-red-400 h-20 items-center text-white z-50">
                 <ul className="
                     w-full flex justify-between 
                     md:flex-col md:items-center md:h-full 
